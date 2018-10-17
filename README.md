@@ -56,3 +56,6 @@ save time and make it easy to develop to use a single common language). As
 people are more likely to carry around their wearable devices than their mobile
 devices, we're planning to create applications for Apple Watch and Android Wear
 devices (these'll be native applications of course).
+
+
+Copyright © 2018 - Nuke Codes
