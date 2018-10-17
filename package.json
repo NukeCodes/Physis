@@ -7,6 +7,8 @@
   "author": "Sankarsan Kampa",
   "private": true,
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^5.0.0-alpha.3",
     "typescript": "^3.1.3"
   }
 }
