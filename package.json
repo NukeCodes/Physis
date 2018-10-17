@@ -1,0 +1,9 @@
+{
+  "name": "physis",
+  "version": "1.0.0",
+  "description": "Get smart insights, alerts & warnings about predicted natural disasters and take precautions before they arrive to keep family, friends & yourself safe.",
+  "main": "./scripts/start",
+  "repository": "https://github.com/NukeCodes/Physis",
+  "author": "Sankarsan Kampa",
+  "private": true
+}
