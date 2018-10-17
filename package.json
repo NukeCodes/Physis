@@ -5,5 +5,8 @@
   "main": "./scripts/start",
   "repository": "https://github.com/NukeCodes/Physis",
   "author": "Sankarsan Kampa",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "typescript": "^3.1.3"
+  }
 }
