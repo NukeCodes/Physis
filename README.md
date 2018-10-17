@@ -58,4 +58,4 @@ devices, we're planning to create applications for Apple Watch and Android Wear
 devices (these'll be native applications of course).
 
 
-Copyright © 2018 - Nuke Codes
+Copyright © 2018 - Nuke Codes. All rights reserved.
