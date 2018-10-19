@@ -1,7 +1,7 @@
 const gulp = require("gulp");
 const ts = require("gulp-typescript");
 const tsProject = ts.createProject("tsconfig.json");
-const del = require('del');
+const del = require("del");
 
 gulp.task("clean", () => {
   // Clean `build` directory
