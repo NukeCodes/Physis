@@ -9,7 +9,7 @@
   "scripts": {
     "gulp:clean": "./node_modules/.bin/gulp clean",
     "gulp:transpile": "./node_modules/.bin/gulp compile",
-    "transpile": "./node_modules/.bin/tsc .",
+    "transpile": "./node_modules/.bin/tsc",
     "lint:eslint": "./node_modules/.bin/eslint .",
     "lint:typescript": "./node_modules/.bin/tslint -c tslint.yaml 'source/**/*.ts'",
     "lint": "yarn lint:eslint && yarn lint:typescript",
