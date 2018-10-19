@@ -21,7 +21,7 @@ rules:
     - always
   dot-location:
     - warn
-    - object
+    - property
   no-else-return: error
   no-extra-label: error
   no-floating-decimal: error
@@ -78,7 +78,7 @@ rules:
     - always
   quotes:
     - warn
-    - single
+    - double
   require-jsdoc:
     - warn
     - require:
