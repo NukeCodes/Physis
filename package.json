@@ -10,7 +10,7 @@
     "gulp:clean": "./node_modules/.bin/gulp clean",
     "gulp:transpile": "./node_modules/.bin/gulp compile",
     "transpile": "./node_modules/.bin/tsc .",
-    "lint:typescript": "./node_modules/.bin/tslint -c tslint.json 'source/**/*.ts'",
+    "lint:typescript": "./node_modules/.bin/tslint -c tslint.yaml 'source/**/*.ts'",
     "lint": "yarn lint:typescript",
     "build": "yarn gulp:clean && yarn gulp:transpile && yarn transpile",
     "start": "node .",
