@@ -4,6 +4,7 @@ extends:
   - tslint:recommended
 jsRules:
 rules:
+  no-namespace: false
   variable-name:
     - true
     - ban-keywords
