@@ -82,10 +82,10 @@ rules:
   require-jsdoc:
     - warn
     - require:
-        - FunctionDeclaration: true
-        - MethodDefinition: true
-        - ClassDeclaration: true
-        - ArrowFunctionExpression: true
+        FunctionDeclaration: true
+        MethodDefinition: true
+        ClassDeclaration: true
+        ArrowFunctionExpression: true
   semi:
     - error
     - always
