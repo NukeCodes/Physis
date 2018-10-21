@@ -5,6 +5,7 @@ extends:
 jsRules:
 rules:
   no-namespace: false
+  prefer-const: false
   variable-name:
     - true
     - ban-keywords
